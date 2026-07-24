@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4aba2d0c.css",
+    "main.js": "/static/js/main.75cc6fbf.js",
+    "static/js/453.8414040a.chunk.js": "/static/js/453.8414040a.chunk.js",
+    "static/media/science-gothic-latin-wght-normal.woff2": "/static/media/science-gothic-latin-wght-normal.5f5f986aad6e7f8e32b8.woff2",
+    "static/media/science-gothic-latin-ext-wght-normal.woff2": "/static/media/science-gothic-latin-ext-wght-normal.82b895b52f34adf0241a.woff2",
+    "static/media/science-gothic-cyrillic-wght-normal.woff2": "/static/media/science-gothic-cyrillic-wght-normal.92bfae905d4aaa8caefa.woff2",
+    "static/media/science-gothic-cyrillic-ext-wght-normal.woff2": "/static/media/science-gothic-cyrillic-ext-wght-normal.45f50077ff5b649cae5b.woff2",
+    "static/media/science-gothic-vietnamese-wght-normal.woff2": "/static/media/science-gothic-vietnamese-wght-normal.c1628bb29b6111b3253b.woff2",
+    "index.html": "/index.html",
+    "main.4aba2d0c.css.map": "/static/css/main.4aba2d0c.css.map",
+    "main.75cc6fbf.js.map": "/static/js/main.75cc6fbf.js.map",
+    "453.8414040a.chunk.js.map": "/static/js/453.8414040a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4aba2d0c.css",
+    "static/js/main.75cc6fbf.js"
+  ]
+}
